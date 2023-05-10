@@ -157,19 +157,20 @@
       <script>
         // Now load all directories (sections) and subsections (SVG images)
         var http = new XMLHttpRequest();
-        var sections = 0;
+        var sections = 4;
         var slides = document.getElementById('slides');
 
         // How many sections (columns) do we have?
         // Maximum 50 slides per column.
-        for (i = 1; i < 50; ++i) {
+        /* GitHub Pages returns 404 for directories...
+	for (i = 1; i < 50; ++i) {
           http.open('HEAD', "sections/" + i, false);
           http.send();
           if (http.status == 200)
             sections++;
           else
             break;
-        }
+        }*/
 
         // How many subsections (slides) for each section?
         for (i = 1; i <= sections; i++) {
