@@ -10,10 +10,7 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
   <!--    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet' type='text/css'> -->
-  <!-- Whiteboard -->
-  <link rel="stylesheet" href="whiteboard/style.css" />
-  <!-- Local js file -->
-  <!-- <script src="whiteboard/script.js"></script> -->
+
   <script type="text/JavaScript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js?ver=1.4.2"></script>
   <!-- jquery CDN -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -147,72 +144,7 @@
     }
   </script>
         
-    <!-- Whiteboard-->
-  <div id="whiteboardcontainer" hidden="true">
-  <div id="wbc">
-  <nav class="navbar bg-dark text-light">
-    <li class="nav-list" style="text-transform: uppercase; font-size: 20px; margin-left: 2%;">
-      Whiteboard
-    </li>
-   
-    <li class="nav-list">
-      <input type="color" id="color" />
-
-      <button value="round" id="clearAll" class="eraser">Clear all</button>
-      <input type="checkbox" id="eraser-checkbox" hidden />
-      <input type="range" id="range" />
-      <button id="eraser">Eraser</button>
-    </li>
-
-    <li class="nav-list" id="fullscreen" title="Fullscreen">
-      <svg width="2em" height="2em" viewBox="0 0 16 16" class="bi bi-fullscreen" fill="white"
-        xmlns="http://www.w3.org/2000/svg">
-        <path fill-rule="evenodd"
-          d="M1.5 1a.5.5 0 0 0-.5.5v4a.5.5 0 0 1-1 0v-4A1.5 1.5 0 0 1 1.5 0h4a.5.5 0 0 1 0 1h-4zM10 .5a.5.5 0 0 1 .5-.5h4A1.5 1.5 0 0 1 16 1.5v4a.5.5 0 0 1-1 0v-4a.5.5 0 0 0-.5-.5h-4a.5.5 0 0 1-.5-.5zM.5 10a.5.5 0 0 1 .5.5v4a.5.5 0 0 0 .5.5h4a.5.5 0 0 1 0 1h-4A1.5 1.5 0 0 1 0 14.5v-4a.5.5 0 0 1 .5-.5zm15 0a.5.5 0 0 1 .5.5v4a1.5 1.5 0 0 1-1.5 1.5h-4a.5.5 0 0 1 0-1h4a.5.5 0 0 0 .5-.5v-4a.5.5 0 0 1 .5-.5z" />
-      </svg>
-  </nav>
-  <!-- <canvas id="whiteboard"></canvas>-->
-
-  <li class="footer-items">
-    <label for="color">
-      Color
-      <input type="color" id="color" title="Color" />
-    </label>
-  </li>
-  <li class="footer-items">
-    <label for="range" id="range-label">
-      Brush Size <span id="value">()</span>
-      <input type="range" id="range" min="2" max="50" value="10" title="Brush Size" />
-    </label>
-  </li>
-  <li class="footer-items">
-    <button value="round" id="clearAll" class="eraser" title="Clear All ">
-      Clear all
-    </button>
-  </li>
-  <input type="file" id="image" accept="image/src" />
-  <input type="checkbox" name="" id="square-checkbox" hidden />
-  <button id="square">
-    <img src="./whiteboard/square.png" alt="" style="width: 40px" />
-  </button>
-  <input type="checkbox" name="" id="circle-checkbox" hidden />
-  <button id="circle">
-    <img src="./whiteboard/circle.png" alt="" style="width: 40px" />
-  </button>
-  <li class="footer-items">
-    <label for="color">
-      Color
-      <input type="color" id="color" title="Color" />
-    </label>
-  </li>
-  <li class="footer-items">
-    <label for="range" id="range-label">
-      Brush Size <span id="value">()</span>
-      <input type="range" id="range" min="2" max="50" value="10" title="Brush Size" />
-    </label>
-  </li>
-</div>
-</div>
+  <!-- Whiteboard-->
   <!-- End Whiteboard-->
 
   <div class="reveal">
@@ -255,14 +187,14 @@
               section.appendChild(subsection);
             }
             else {
-              //<canvas id="whiteboard"></canvas>
-              //subsection.innerHTML = document.getElementById('wbc').innerHTML;
-              //subsection.hidden = false;
-              //section.appendChild(subsection);
+              /*<canvas id="whiteboard"></canvas>
+              subsection.innerHTML = document.getElementById('wbc').innerHTML;
+              subsection.hidden = false;
+              section.appendChild(subsection);
               var canv = document.createElement('canvas');
               canv.id = 'myCanvas';
               subsection.appendChild(canv);
-              section.appendChild(subsection);
+              section.appendChild(subsection);*/
               break;
             }
           }
