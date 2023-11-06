@@ -174,19 +174,10 @@ function fedRender()
 
       // How many sections (columns) do we have?
       // Maximum 50 slides per column.
-      for (i = 1; i < 50; ++i){
-        http.open('HEAD', "sections/"+i, false);
-        http.send();
-        if (http.status == 200)
-          sections++;
-        else
-          break;
-      }
-
       // How many subsections (slides) for each section?
-      for (i = 1; i <= sections; i++) {
+      for (i = 1; i <= 3; i++) {
         section = document.createElement("section");
-        for (j = 1; j < 10; j++) {
+        for (j = 1; j < 5; j++) {
           var url = "sections/"+i+"/"+j+".svg";
           http.open('GET', url, false);
           http.send();
