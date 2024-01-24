@@ -18,8 +18,8 @@
      id="defs32"><rect
        x="48.945538"
        y="120.13905"
-       width="783.1286"
-       height="386.00231"
+       width="693.02432"
+       height="414.92468"
        id="rect2" /><rect
        x="20.023174"
        y="13.348783"
@@ -45,14 +45,15 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#949494"
      inkscape:zoom="0.89895836"
-     inkscape:cx="688.01852"
-     inkscape:cy="235.2723"
-     inkscape:window-width="1491"
-     inkscape:window-height="942"
-     inkscape:window-x="247"
-     inkscape:window-y="118"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg32" /><clipPath
+     inkscape:cx="598.47043"
+     inkscape:cy="237.4971"
+     inkscape:window-width="1780"
+     inkscape:window-height="1164"
+     inkscape:window-x="140"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg32"
+     showgrid="false" /><clipPath
      id="g5e2d5277f8_0_1724.0"><path
        d="m0 0l960.0 0l0 540.0l-960.0 0l0 -540.0z"
        clip-rule="nonzero"
@@ -70,45 +71,50 @@
      transform="translate(0,10)"><tspan
        x="20.023438"
        y="56.585822"
-       id="tspan2">About Me</tspan></text><text
+       id="tspan1">About Me</tspan></text><text
      xml:space="preserve"
      id="text2"
-     style="font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#f9f9f9;stroke-width:0.264583px;-inkscape-stroke:none"><tspan
+     style="font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#f9f9f9;stroke-width:0.264583px;-inkscape-stroke:none"
+     transform="translate(-6.6743915,-20.023174)"><tspan
        x="48.945312"
        y="148.96281"
-       id="tspan4">Field CTO at TeraSky
+       id="tspan2">Field CTO at TeraSky
 </tspan><tspan
        x="48.945312"
        y="188.96281"
-       id="tspan5">Former Red Hat, Puppet, HashiCorp
+       id="tspan3">Former Red Hat, Puppet, HashiCorp
 </tspan><tspan
        x="48.945312"
        y="228.96281"
-       id="tspan6">London resident from Chicago
+       id="tspan4">London resident from Chicago
 </tspan><tspan
        x="48.945312"
        y="268.96281"
-       id="tspan7">Active in the Fedora community
+       id="tspan5">Active in the Fedora community
 </tspan><tspan
        x="48.945312"
        y="308.96281"
-       id="tspan8">Avid low latency and HPC geek
+       id="tspan6">Avid low latency and HPC geek
 </tspan><tspan
        x="48.945312"
        y="348.96281"
-       id="tspan9">Industry critic
+       id="tspan7">Industry critic and author*
 </tspan><tspan
        x="48.945312"
        y="388.96281"
-       id="tspan10">Avid sailor
+       id="tspan8">A bit on the spectrum
 </tspan><tspan
        x="48.945312"
        y="428.96281"
-       id="tspan11">
+       id="tspan9">Avid sailor
 </tspan><tspan
        x="48.945312"
        y="468.96281"
-       id="tspan12">Summer break spent with Llama.CPP project.
+       id="tspan10">* AI Novice, NOT an AI Academic *
+</tspan><tspan
+       x="48.945312"
+       y="508.96281"
+       id="tspan11">Summer break spent with Llama.CPP project.
 </tspan></text><image
      width="326.52048"
      height="326.52048"
