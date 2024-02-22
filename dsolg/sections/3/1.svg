@@ -23,8 +23,8 @@
        id="rect4" /><rect
        x="48.945538"
        y="120.13905"
-       width="782.0162"
-       height="369.31633"
+       width="512.81575"
+       height="392.6767"
        id="rect2" /><rect
        x="20.023174"
        y="13.348783"
@@ -40,7 +40,17 @@
        y="430.49826"
        width="319.2799"
        height="68.286329"
-       id="rect32" /></defs><sodipodi:namedview
+       id="rect32" /><rect
+       x="48.945538"
+       y="120.13905"
+       width="512.81573"
+       height="392.6767"
+       id="rect2-3" /><rect
+       x="602.92003"
+       y="358.74854"
+       width="504.47275"
+       height="373.20972"
+       id="rect7" /></defs><sodipodi:namedview
      id="namedview32"
      pagecolor="#528feb"
      bordercolor="#000000"
@@ -50,14 +60,14 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#949494"
      inkscape:zoom="0.89895836"
-     inkscape:cx="438.84124"
-     inkscape:cy="346.51216"
+     inkscape:cx="325.93278"
+     inkscape:cy="347.62456"
      inkscape:window-width="1780"
      inkscape:window-height="1164"
      inkscape:window-x="140"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="a5"
+     inkscape:current-layer="a4"
      showgrid="false" /><clipPath
      id="g5e2d5277f8_0_1724.0"><path
        d="m0 0l960.0 0l0 540.0l-960.0 0l0 -540.0z"
@@ -82,7 +92,7 @@
      transform="translate(0,10)"><tspan
        x="20.023438"
        y="56.585822"
-       id="tspan1">Brief History on Open LLM Projects</tspan></text><a
+       id="tspan3">Brief History on Open LLM Projects</tspan></text><a
      id="a5"
      xlink:href="https://www.meetup.com/TensorFlow-London/"
      target="https://www.meetup.com/TensorFlow-London/"><a
@@ -91,43 +101,62 @@
        target="https://en.wikipedia.org/wiki/OpenNN"><text
          xml:space="preserve"
          id="text2"
-         style="font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);shape-padding:2.2248;display:inline;fill:#f9f9f9;stroke-width:0.264583px;-inkscape-stroke:none"><tspan
+         style="font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);shape-padding:2.2248;display:inline;fill:#f9f9f9;stroke-width:0.264583px;-inkscape-stroke:none"
+         transform="translate(927.74037,-45.608342)"><tspan
            x="51.169922"
            y="151.18742"
-           id="tspan2">Neural Network Software:
-</tspan><tspan
+           id="tspan6"><tspan
+             style="fill:#ffffff"
+             id="tspan5">Neural Network Software
+</tspan></tspan><tspan
            x="51.169922"
            y="191.18742"
-           id="tspan3">1. OpenNN
-</tspan><tspan
+           id="tspan8"><tspan
+             style="fill:#ffffff"
+             id="tspan7">1. OpenNN
+</tspan></tspan><tspan
            x="51.169922"
            y="231.18742"
-           id="tspan5">2. TensorFlow (LDN Meetups)
-</tspan><tspan
+           id="tspan10"><tspan
+             style="fill:#ffffff"
+             id="tspan9">2. TensorFlow
+</tspan></tspan><tspan
            x="51.169922"
            y="271.18742"
-           id="tspan6">3. OpenAI (SaaS, no longer open)
-</tspan><tspan
+           id="tspan12"><tspan
+             style="fill:#ffffff"
+             id="tspan11">3. OpenAI
+</tspan></tspan><tspan
            x="51.169922"
            y="311.18742"
-           id="tspan7">4. Llama
-</tspan><tspan
+           id="tspan16"><tspan
+             style="fill:#ffffff"
+             id="tspan15">4. Llama
+</tspan></tspan><tspan
            x="51.169922"
            y="351.18742"
-           id="tspan9">
-</tspan><tspan
+           id="tspan18"><tspan
+             style="fill:#ffffff"
+             id="tspan17">
+</tspan></tspan><tspan
            x="51.169922"
            y="391.18742"
-           id="tspan10">HW/Vector Math Accel: 
-</tspan><tspan
+           id="tspan20"><tspan
+             style="fill:#ffffff"
+             id="tspan19">HW Vector Math Accel 
+</tspan></tspan><tspan
            x="51.169922"
            y="431.18742"
-           id="tspan11">TPU, AVX, CLBlast/CUBlas, etc.
-</tspan><tspan
+           id="tspan22"><tspan
+             style="fill:#ffffff"
+             id="tspan21">TPU, AVX, CLBlast, CUBlas, etc.
+</tspan></tspan><tspan
            x="51.169922"
            y="471.18742"
-           id="tspan12">Open file formats: GGML/GGUF
-</tspan></text></a></a><a
+           id="tspan24"><tspan
+             style="fill:#ffffff"
+             id="tspan23">Open file formats GGML, GGUF
+</tspan></tspan></text></a></a><a
      id="a3"
      xlink:href="https://cobusgreyling.medium.com/the-large-language-model-landscape-9da7ee17710b"
      target="https://cobusgreyling.medium.com/the-large-language-model-landscape-9da7ee17710b"
@@ -148,6 +177,73 @@
        style="font-size:16px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4);display:inline;fill:#ffffff;fill-opacity:0.330629;stroke-width:0.264583px;-inkscape-stroke:none"><tspan
          x="602.91992"
          y="373.16012"
-         id="tspan14"><tspan
+         id="tspan26"><tspan
            style="fill-opacity:1"
-           id="tspan13">From Medium article by Cobus Greyling</tspan></tspan></text></a></svg>
+           id="tspan25">From Medium article by Cobus Greyling
+</tspan></tspan><tspan
+         x="602.91992"
+         y="393.16012"
+         id="tspan28"><tspan
+           style="fill-opacity:1"
+           id="tspan27">H/T to missing IBM Watson</tspan></tspan></text></a><a
+     id="a7"
+     xlink:href="https://cobusgreyling.medium.com/the-large-language-model-landscape-9da7ee17710b"
+     target="https://cobusgreyling.medium.com/the-large-language-model-landscape-9da7ee17710b"
+     transform="translate(-558.42408,-233.6037)"><text
+       xml:space="preserve"
+       id="text4"
+       style="font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect7);display:inline;fill:#ffffff;fill-opacity:0.330629;stroke-width:0.264583px;-inkscape-stroke:none"><tspan
+         x="602.91992"
+         y="387.57219"
+         id="tspan30"><tspan
+           style="fill-opacity:1"
+           id="tspan29">Neural Network Software
+</tspan></tspan><tspan
+         x="602.91992"
+         y="427.57219"
+         id="tspan32"><tspan
+           style="fill-opacity:1"
+           id="tspan31">1. OpenNN
+</tspan></tspan><tspan
+         x="602.91992"
+         y="467.57219"
+         id="tspan34"><tspan
+           style="fill-opacity:1"
+           id="tspan33">2. TensorFlow
+</tspan></tspan><tspan
+         x="602.91992"
+         y="507.57219"
+         id="tspan36"><tspan
+           style="fill-opacity:1"
+           id="tspan35">3. OpenAI
+</tspan></tspan><tspan
+         x="602.91992"
+         y="547.57219"
+         id="tspan38"><tspan
+           style="fill-opacity:1"
+           id="tspan37">4. Llama
+</tspan></tspan><tspan
+         x="602.91992"
+         y="587.57219"
+         id="tspan40"><tspan
+           style="fill-opacity:1"
+           id="tspan39">
+</tspan></tspan><tspan
+         x="602.91992"
+         y="627.57219"
+         id="tspan42"><tspan
+           style="fill-opacity:1"
+           id="tspan41">HW Vector Math Accel 
+</tspan></tspan><tspan
+         x="602.91992"
+         y="667.57219"
+         id="tspan44"><tspan
+           style="fill-opacity:1"
+           id="tspan43">TPU, AVX, CLBlast, CUBlas, etc.
+</tspan></tspan><tspan
+         x="602.91992"
+         y="707.57219"
+         id="tspan46"><tspan
+           style="fill-opacity:1"
+           id="tspan45">Open file formats GGML, GGUF
+</tspan></tspan></text></a></svg>

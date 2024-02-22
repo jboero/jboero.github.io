@@ -44,9 +44,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#949494"
-     inkscape:zoom="0.89895836"
-     inkscape:cx="598.47043"
-     inkscape:cy="237.4971"
+     inkscape:zoom="1.2713191"
+     inkscape:cx="519.14582"
+     inkscape:cy="306.37469"
      inkscape:window-width="1780"
      inkscape:window-height="1164"
      inkscape:window-x="140"
@@ -71,50 +71,54 @@
      transform="translate(0,10)"><tspan
        x="20.023438"
        y="56.585822"
-       id="tspan1">About Me</tspan></text><text
+       id="tspan3">About Me</tspan></text><text
      xml:space="preserve"
      id="text2"
-     style="font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#f9f9f9;stroke-width:0.264583px;-inkscape-stroke:none"
+     style="font-size:29.3333px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#f9f9f9;stroke-width:0.264583px;-inkscape-stroke:none"
      transform="translate(-6.6743915,-20.023174)"><tspan
        x="48.945312"
-       y="148.96281"
-       id="tspan2">Field CTO at TeraSky
+       y="146.56077"
+       id="tspan4">Field CTO at TeraSky
 </tspan><tspan
        x="48.945312"
-       y="188.96281"
-       id="tspan3">Former Red Hat, Puppet, HashiCorp
+       y="183.2274"
+       id="tspan5">Former Red Hat, Puppet, HashiCorp
 </tspan><tspan
        x="48.945312"
-       y="228.96281"
-       id="tspan4">London resident from Chicago
-</tspan><tspan
-       x="48.945312"
-       y="268.96281"
-       id="tspan5">Active in the Fedora community
-</tspan><tspan
-       x="48.945312"
-       y="308.96281"
+       y="219.89402"
        id="tspan6">Avid low latency and HPC geek
 </tspan><tspan
        x="48.945312"
-       y="348.96281"
-       id="tspan7">Industry critic and author*
+       y="256.56065"
+       id="tspan7">London resident from Chicago
 </tspan><tspan
        x="48.945312"
-       y="388.96281"
-       id="tspan8">A bit on the spectrum
+       y="293.22728"
+       id="tspan8">Industry critic and published author
 </tspan><tspan
        x="48.945312"
-       y="428.96281"
-       id="tspan9">Avid sailor
+       y="329.8939"
+       id="tspan9">Supporter of Raspberry Pi Foundation
 </tspan><tspan
        x="48.945312"
-       y="468.96281"
-       id="tspan10">* AI Novice, NOT an AI Academic *
+       y="366.56053"
+       id="tspan10">Active in the Fedora community
 </tspan><tspan
        x="48.945312"
-       y="508.96281"
-       id="tspan11">Summer break spent with Llama.CPP project.
+       y="403.22715"
+       id="tspan11">A bit on the spectrum
+</tspan><tspan
+       x="48.945312"
+       y="439.89378"
+       id="tspan12">Avid sailor
+</tspan><tspan
+       x="48.945312"
+       y="476.56041"
+       id="tspan13">* AI Novice, NOT an AI Academic *
+</tspan><tspan
+       x="48.945312"
+       y="513.22703"
+       id="tspan14">Summer break spent with Llama.cpp project.
 </tspan></text><image
      width="326.52048"
      height="326.52048"
