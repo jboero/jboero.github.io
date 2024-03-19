@@ -7,7 +7,7 @@
    stroke-linecap="square"
    stroke-miterlimit="10"
    id="svg32"
-   sodipodi:docname="index.svg"
+   sodipodi:docname="2.svg"
    xml:space="preserve"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -45,8 +45,8 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#949494"
      inkscape:zoom="0.89895836"
-     inkscape:cx="678.00693"
-     inkscape:cy="339.83777"
+     inkscape:cx="589.57125"
+     inkscape:cy="429.94205"
      inkscape:window-width="1780"
      inkscape:window-height="1164"
      inkscape:window-x="140"
@@ -70,26 +70,38 @@
      transform="translate(0,10)"><tspan
        x="20.023438"
        y="56.585822"
-       id="tspan2">TITLE</tspan></text><text
+       id="tspan1">Challenge</tspan></text><text
      xml:space="preserve"
      id="text2"
-     style="font-size:48px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);fill:#f9f9f9;stroke-width:0.264583px;-inkscape-stroke:none"><tspan
+     style="font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#f9f9f9;stroke-width:0.264583px;-inkscape-stroke:none"><tspan
        x="48.945312"
-       y="163.37488"
-       id="tspan8">1.
+       y="148.96281"
+       id="tspan2">Before next meeting, use the LLMs of your choice </tspan><tspan
+       x="48.945312"
+       y="188.96281"
+       id="tspan3">(public or private)
 </tspan><tspan
        x="48.945312"
-       y="223.37488"
-       id="tspan9">2.
+       y="228.96281"
+       id="tspan4">
 </tspan><tspan
        x="48.945312"
-       y="283.37488"
-       id="tspan10">3.
+       y="268.96281"
+       id="tspan5">Show a thread where the LLM discovers a new CVE or </tspan><tspan
+       x="48.945312"
+       y="308.96281"
+       id="tspan6">vulnerability or security discovery. If multiple are found, </tspan><tspan
+       x="48.945312"
+       y="348.96281"
+       id="tspan7">DSOLG leadership can vote to determine the best </tspan><tspan
+       x="48.945312"
+       y="388.96281"
+       id="tspan8">example. Results to be presented next gathering.
 </tspan><tspan
        x="48.945312"
-       y="343.37488"
-       id="tspan11">4.
+       y="428.96281"
+       id="tspan9">
 </tspan><tspan
        x="48.945312"
-       y="403.37488"
-       id="tspan12">5.</tspan></text></svg>
+       y="468.96281"
+       id="tspan10">Winner takes the Nvidia Tesla GPU trophy.</tspan></text></svg>
