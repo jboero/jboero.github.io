@@ -18,8 +18,8 @@
      id="defs32"><rect
        x="48.945538"
        y="120.13905"
-       width="783.1286"
-       height="386.00231"
+       width="868.78329"
+       height="389.33951"
        id="rect2" /><rect
        x="20.023174"
        y="13.348783"
@@ -45,8 +45,8 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#949494"
      inkscape:zoom="0.89895836"
-     inkscape:cx="338.72537"
-     inkscape:cy="268.64426"
+     inkscape:cx="194.11355"
+     inkscape:cy="504.47275"
      inkscape:window-width="1780"
      inkscape:window-height="1164"
      inkscape:window-x="140"
@@ -67,38 +67,36 @@
      y="460.08945" /><text
      xml:space="preserve"
      id="text1"
-     style="font-size:48px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#f9f9f9;stroke-width:0.264583px;-inkscape-stroke:none"
+     style="font-size:64px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#f9f9f9;stroke-width:0.264583px;-inkscape-stroke:none"
      transform="translate(0,10)"><tspan
        x="20.023438"
-       y="56.585822"
-       id="tspan3">Topics Tonight</tspan></text><text
+       y="70.997892"
+       id="tspan2"><tspan
+         style="font-weight:bold"
+         id="tspan1">Topics Tonight</tspan></tspan></text><text
      xml:space="preserve"
      id="text2"
-     style="font-size:37.3333px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#f9f9f9;stroke-width:0.264583px;-inkscape-stroke:none"><tspan
+     style="font-size:48px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#f9f9f9;stroke-width:0.264583px;-inkscape-stroke:none"><tspan
        x="48.945312"
-       y="153.76681"
-       id="tspan4">1. Vulnerability Quiz and Parlor Tricks
+       y="163.37488"
+       id="tspan3">1. Vulnerability Quiz and Parlor Tricks
 </tspan><tspan
        x="48.945312"
-       y="200.43343"
+       y="223.37488"
        id="tspan5">2. History and Intro to Gen AI and LLMs
 </tspan><tspan
        x="48.945312"
-       y="247.10006"
+       y="283.37488"
        id="tspan6">3. Ecosystem Pubic vs Private LLMs
 </tspan><tspan
        x="48.945312"
-       y="293.76669"
+       y="343.37488"
        id="tspan7">4. Prompt Engineering and Security
 </tspan><tspan
        x="48.945312"
-       y="340.43331"
-       id="tspan8">5. Blue Team: Models Protect You?
+       y="403.37488"
+       id="tspan8">5. Challenge and Open Forum
 </tspan><tspan
        x="48.945312"
-       y="387.09994"
-       id="tspan9">6. Red Team: Models Find Zero Days?
-</tspan><tspan
-       x="48.945312"
-       y="433.76656"
-       id="tspan10">7. Challenge and Open Forum</tspan></text></svg>
+       y="463.37488"
+       id="tspan9">* Easter Egg</tspan></text></svg>
