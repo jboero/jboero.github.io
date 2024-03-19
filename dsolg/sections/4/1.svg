@@ -45,14 +45,14 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#949494"
      inkscape:zoom="1.2713191"
-     inkscape:cx="620.61523"
-     inkscape:cy="243.44793"
+     inkscape:cx="306.37469"
+     inkscape:cy="244.23451"
      inkscape:window-width="1780"
      inkscape:window-height="1164"
      inkscape:window-x="140"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg32"
+     inkscape:current-layer="a3"
      showgrid="false" /><clipPath
      id="g5e2d5277f8_0_1724.0"><path
        d="m0 0l960.0 0l0 540.0l-960.0 0l0 -540.0z"
@@ -77,7 +77,7 @@
      transform="translate(0,10)"><tspan
        x="20.023438"
        y="56.585822"
-       id="tspan3">Ecosystem of Public / Private Options</tspan></text><a
+       id="tspan1">Ecosystem of Public / Private Options</tspan></text><a
      id="a3"
      xlink:href="https://www.cbinsights.com/company/openai/alternatives-competitors"
      target="https://www.cbinsights.com/company/openai/alternatives-competitors"
@@ -93,39 +93,39 @@
        style="font-size:29.3333px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#f9f9f9;stroke-width:0.264583px;-inkscape-stroke:none"><tspan
          x="48.945312"
          y="146.56077"
-         id="tspan4">Public LLMs:
+         id="tspan2">Public LLMs:
 </tspan><tspan
          x="48.945312"
          y="183.2274"
-         id="tspan5">OpenAI GPT/API and models.
+         id="tspan3">OpenAI GPT/API and models.
 </tspan><tspan
          x="48.945312"
          y="219.89402"
-         id="tspan6">Google Bard/Vertex API and models.
+         id="tspan13">Google Bard/Gemini/Vertex API.
 </tspan><tspan
          x="48.945312"
          y="256.56065"
-         id="tspan7">Click for link to list.
+         id="tspan14">Click for link to list.
 </tspan><tspan
          x="48.945312"
          y="293.22728"
-         id="tspan8">
+         id="tspan15">
 </tspan><tspan
          x="48.945312"
          y="329.8939"
-         id="tspan9">Private LLMs:
+         id="tspan16">Private LLMs:
 </tspan><tspan
          x="48.945312"
          y="366.56053"
-         id="tspan10">Meta's Llama2 runtime and models.
+         id="tspan17">Meta's Llama2 runtime and models.
 </tspan><tspan
          x="48.945312"
          y="403.22715"
-         id="tspan11">HuggingFace model community.
+         id="tspan18">HuggingFace model community.
 </tspan><tspan
          x="48.945312"
          y="439.89378"
-         id="tspan12">Analogous to Docker Hub for LLMs. 
+         id="tspan19">Analogous to Docker Hub for LLMs. 
 </tspan></text></a><image
      width="276.16977"
      height="165.14954"
