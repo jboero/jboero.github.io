@@ -25,7 +25,12 @@
        y="430.49826"
        width="319.2799"
        height="68.286329"
-       id="rect32" /></defs><sodipodi:namedview
+       id="rect32" /><rect
+       x="275.87485"
+       y="378.21552"
+       width="155.17963"
+       height="37.265355"
+       id="rect33-3" /></defs><sodipodi:namedview
      id="namedview32"
      pagecolor="#ffffff"
      bordercolor="#000000"
@@ -35,8 +40,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.7979167"
-     inkscape:cx="393.511"
-     inkscape:cy="458.58632"
+     inkscape:cx="798.98029"
+     inkscape:cy="494.18307"
      inkscape:window-width="1780"
      inkscape:window-height="1164"
      inkscape:window-x="140"
@@ -60,15 +65,15 @@
      transform="translate(12.123424,30.305498)"><tspan
        x="301.46094"
        y="452.33505"
-       id="tspan5"><tspan
+       id="tspan3"><tspan
          style="font-family:Arial;-inkscape-font-specification:Arial;fill:#f9f9f9"
-         id="tspan2">John Boero
+         id="tspan1">John Boero
 </tspan></tspan><tspan
        x="301.46094"
        y="482.55395"
-       id="tspan10"><tspan
+       id="tspan6"><tspan
          style="font-family:Arial;-inkscape-font-specification:Arial;fill:#f9f9f9"
-         id="tspan9">WED 20-MAR-2024</tspan></tspan></text><image
+         id="tspan4">WED 20-MAR-2024</tspan></tspan></text><image
      width="304.39987"
      height="240.59096"
      preserveAspectRatio="none"
@@ -82,6 +87,17 @@
      transform="translate(-59.513326,19.466976)"><tspan
        x="275.875"
        y="399.83295"
-       id="tspan12"><tspan
+       id="tspan8"><tspan
          style="font-family:Arial;-inkscape-font-specification:Arial"
-         id="tspan11">The Future of AI and its Ultimate Challenge: Security</tspan></tspan></text></svg>
+         id="tspan7">The Future of AI and its Ultimate Challenge: Security</tspan></tspan></text><text
+     xml:space="preserve"
+     id="text33-6"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect33-3);display:inline;fill:#f9f9f9;stroke-width:0.264583px;-inkscape-stroke:none"
+     transform="translate(507.98196,92.815835)"><tspan
+       x="275.875"
+       y="390.0288"
+       id="tspan9">Navigate : Space/arrows
+</tspan><tspan
+       x="275.875"
+       y="406.69543"
+       id="tspan10">ESC for menu</tspan></text></svg>
