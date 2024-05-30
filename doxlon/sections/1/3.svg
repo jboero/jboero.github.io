@@ -46,7 +46,7 @@
      inkscape:deskcolor="#949494"
      inkscape:zoom="0.89895836"
      inkscape:cx="460.53301"
-     inkscape:cy="237.4971"
+     inkscape:cy="238.60949"
      inkscape:window-width="1745"
      inkscape:window-height="1164"
      inkscape:window-x="175"
@@ -64,47 +64,29 @@
      transform="translate(0,10)"><tspan
        x="20.023438"
        y="71.909609"
-       id="tspan4"><tspan
-         style="font-family:Gilmer;-inkscape-font-specification:Gilmer"
-         id="tspan1">Topics Tonight</tspan></tspan></text><text
+       id="tspan2">Topics Tonight</tspan></text><text
      xml:space="preserve"
      id="text2"
-     style="font-size:42.6667px;line-height:125%;font-family:Gilmer;-inkscape-font-specification:Gilmer;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#92c11e;stroke-width:0.264583px;-inkscape-stroke:none;fill-opacity:1"><tspan
+     style="font-size:42.6667px;line-height:125%;font-family:Gilmer;-inkscape-font-specification:Gilmer;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#92c11e;fill-opacity:1;stroke-width:0.264583px;-inkscape-stroke:none"><tspan
        x="48.945312"
        y="159.1787"
-       id="tspan6"><tspan
-         style="font-family:Gilmer;-inkscape-font-specification:Gilmer"
-         id="tspan5">1. Vulnerability Quiz and Parlor Tricks
-</tspan></tspan><tspan
+       id="tspan3">1. Completion Quiz and Parlor Tricks
+</tspan><tspan
        x="48.945312"
-       y="213.11989"
-       id="tspan8"><tspan
-         style="font-family:Gilmer;-inkscape-font-specification:Gilmer"
-         id="tspan7">2. History and Intro to Gen AI and LLMs
-</tspan></tspan><tspan
+       y="212.51207"
+       id="tspan4">2. History and Intro to Gen AI and LLMs
+</tspan><tspan
        x="48.945312"
-       y="267.06109"
-       id="tspan10"><tspan
-         style="font-family:Gilmer;-inkscape-font-specification:Gilmer"
-         id="tspan9">3. Ecosystem Pubic vs Private LLMs
-</tspan></tspan><tspan
+       y="265.84545"
+       id="tspan5">3. Ecosystem Pubic vs Private LLMs
+</tspan><tspan
        x="48.945312"
-       y="321.00228"
-       id="tspan12"><tspan
-         style="font-family:Gilmer;-inkscape-font-specification:Gilmer"
-         id="tspan11">4. Prompt Engineering and Security
-</tspan></tspan><tspan
+       y="319.17882"
+       id="tspan7">4. Prompt Engineering and Security
+</tspan><tspan
        x="48.945312"
-       y="374.94347"
-       id="tspan14"><tspan
-         style="font-family:Gilmer;-inkscape-font-specification:Gilmer"
-         id="tspan13">5. Challenge and Open Forum
-</tspan></tspan><tspan
-       x="48.945312"
-       y="428.88466"
-       id="tspan16"><tspan
-         style="font-family:Gilmer;-inkscape-font-specification:Gilmer"
-         id="tspan15">* Easter Egg</tspan></tspan></text><image
+       y="372.5122"
+       id="tspan8">5. Challenge and Open Forum</tspan></text><image
      width="134.45973"
      height="21.804281"
      preserveAspectRatio="none"

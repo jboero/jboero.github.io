@@ -113,7 +113,7 @@
          x="8.2851562"
          y="24.870674"
          id="tspan359"><tspan
-           style="font-weight:bold;font-family:'Metro Sans';-inkscape-font-specification:'Metro Sans Bold';fill:#ffffff"
+           style="font-weight:bold;font-family:'Metro Sans';-inkscape-font-specification:'Metro Sans Bold';fill:#92c11e"
            id="tspan357">Identity Based Access</tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -122,37 +122,37 @@
          x="8.5527344"
          y="50.525586"
          id="tspan363"><tspan
-           style="font-weight:bold;font-family:'Metro Sans';-inkscape-font-specification:'Metro Sans Bold';fill:#ffffff"
+           style="font-weight:bold;font-family:'Metro Sans';-inkscape-font-specification:'Metro Sans Bold';fill:#92c11e"
            id="tspan361">Highlights:
 </tspan></tspan><tspan
          x="8.5527344"
          y="66.400586"
          id="tspan367"><tspan
-           style="font-weight:bold;font-family:'Metro Sans';-inkscape-font-specification:'Metro Sans Bold';fill:#ffffff"
+           style="font-weight:bold;font-family:'Metro Sans';-inkscape-font-specification:'Metro Sans Bold';fill:#92c11e"
            id="tspan365">1. Dynamic secrets.
 </tspan></tspan><tspan
          x="8.5527344"
          y="82.275586"
          id="tspan371"><tspan
-           style="font-weight:bold;font-family:'Metro Sans';-inkscape-font-specification:'Metro Sans Bold';fill:#ffffff"
+           style="font-weight:bold;font-family:'Metro Sans';-inkscape-font-specification:'Metro Sans Bold';fill:#92c11e"
            id="tspan369">2. Minimum privilege.
 </tspan></tspan><tspan
          x="8.5527344"
          y="98.150586"
          id="tspan375"><tspan
-           style="font-weight:bold;font-family:'Metro Sans';-inkscape-font-specification:'Metro Sans Bold';fill:#ffffff"
+           style="font-weight:bold;font-family:'Metro Sans';-inkscape-font-specification:'Metro Sans Bold';fill:#92c11e"
            id="tspan373">3. Minimum TTL access.
 </tspan></tspan><tspan
          x="8.5527344"
          y="114.02559"
          id="tspan379"><tspan
-           style="font-weight:bold;font-family:'Metro Sans';-inkscape-font-specification:'Metro Sans Bold';fill:#ffffff"
+           style="font-weight:bold;font-family:'Metro Sans';-inkscape-font-specification:'Metro Sans Bold';fill:#92c11e"
            id="tspan377">4. Full audit trails.
 </tspan></tspan><tspan
          x="8.5527344"
          y="129.90059"
          id="tspan383"><tspan
-           style="font-weight:bold;font-family:'Metro Sans';-inkscape-font-specification:'Metro Sans Bold';fill:#ffffff"
+           style="font-weight:bold;font-family:'Metro Sans';-inkscape-font-specification:'Metro Sans Bold';fill:#92c11e"
            id="tspan381">5. End to end mTLS.</tspan></tspan></text>
     <image
        width="41.663807"

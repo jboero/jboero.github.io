@@ -18,8 +18,8 @@
      id="defs32"><rect
        x="48.945538"
        y="120.13905"
-       width="863.2213"
-       height="386.00231"
+       width="847.64772"
+       height="341.50637"
        id="rect2" /><rect
        x="20.023174"
        y="13.348783"
@@ -46,7 +46,7 @@
      inkscape:deskcolor="#949494"
      inkscape:zoom="0.89895836"
      inkscape:cx="500.02316"
-     inkscape:cy="251.95828"
+     inkscape:cy="254.18307"
      inkscape:window-width="1745"
      inkscape:window-height="1164"
      inkscape:window-x="175"
@@ -57,7 +57,7 @@
        d="m0 0l960.0 0l0 540.0l-960.0 0l0 -540.0z"
        clip-rule="nonzero"
        id="path1" /></clipPath><rect
-     style="fill:#ffffff;fill-opacity:0.342282;stroke-width:0.267869px;-inkscape-stroke:none"
+     style="fill:#92c11e;fill-opacity:0.342282;stroke-width:0.267869px;-inkscape-stroke:none"
      id="rect3"
      width="884.35687"
      height="325.93277"
@@ -65,53 +65,44 @@
      y="103.45306" /><text
      xml:space="preserve"
      id="text1"
-     style="font-size:48px;line-height:125%;font-family:Gilmer;-inkscape-font-specification:Gilmer;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#f9f9f9;stroke-width:0.264583px;-inkscape-stroke:none"
+     style="font-size:48px;line-height:125%;font-family:Gilmer;-inkscape-font-specification:Gilmer;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#92c11e;stroke-width:0.264583px;-inkscape-stroke:none"
      transform="translate(0,10)"><tspan
        x="20.023438"
        y="57.269609"
-       id="tspan2"><tspan
-         style="font-family:Gilmer;-inkscape-font-specification:Gilmer"
-         id="tspan1">Vulnerability Quiz Question 1:</tspan></tspan></text><text
+       id="tspan1">Completion Quiz Question 1:</tspan></text><text
      xml:space="preserve"
      id="text2"
-     style="font-size:26.6667px;line-height:125%;font-family:Gilmer;-inkscape-font-specification:Gilmer;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583px;-inkscape-stroke:none"><tspan
+     style="font-size:26.6667px;line-height:125%;font-family:Gilmer;-inkscape-font-specification:Gilmer;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583px;-inkscape-stroke:none"><tspan
        x="48.945312"
-       y="144.15882"
-       id="tspan3">This is a story about a CVE Johnny once discovered in a critical open </tspan><tspan
+       y="144.5387"
+       id="tspan2">This is a kubectl command that can be run to fetch all local </tspan><tspan
        x="48.945312"
-       y="177.49219"
-       id="tspan4">source library. Johnny noticed that a Go library was used to download </tspan><tspan
-       x="48.945312"
-       y="210.82557"
-       id="tspan5">and verify artifacts for a service. There are two attack vectors available in </tspan><tspan
-       x="48.945312"
-       y="244.15894"
-       id="tspan6">a process that takes a URL input and an optional public key for </tspan><tspan
-       x="48.945312"
-       y="277.49232"
-       id="tspan7">verification. URLs can be HTTPS or Git repo links and may or may not </tspan><tspan
-       x="48.945312"
-       y="310.82569"
-       id="tspan8">be compressed in which case they will be expanded. Download links are </tspan><tspan
-       x="48.945312"
-       y="344.15906"
-       id="tspan9">often provided by DevOps workflows.
+       y="177.87208"
+       id="tspan3">containers running an NGINX container version less than v1.20:
 </tspan><tspan
        x="48.945312"
-       y="377.49244"
-       id="tspan10">
+       y="211.20545"
+       id="tspan4">
 </tspan><tspan
        x="48.945312"
-       y="410.82581"
-       id="tspan11">The two attack vectors presented by this are ____?
+       y="244.53882"
+       id="tspan5">`kubectl 
 </tspan><tspan
        x="48.945312"
-       y="444.15919"
-       id="tspan12">
+       y="277.8722"
+       id="tspan7">
 </tspan><tspan
        x="48.945312"
-       y="477.49256"
-       id="tspan13">(Winners each get a Raspberry Pi Zero 2W loaded with Llama)</tspan></text><image
+       y="311.20557"
+       id="tspan8">
+</tspan><tspan
+       x="48.945312"
+       y="344.53895"
+       id="tspan9">
+</tspan><tspan
+       x="48.945312"
+       y="377.87232"
+       id="tspan10">Answer?</tspan></text><image
      width="134.45973"
      height="21.804281"
      preserveAspectRatio="none"
