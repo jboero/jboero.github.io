@@ -18,8 +18,8 @@
      id="defs32"><rect
        x="48.945538"
        y="120.13905"
-       width="285.88644"
-       height="378.21552"
+       width="283.66164"
+       height="330.38238"
        id="rect2" /><rect
        x="20.023174"
        y="13.348783"
@@ -45,7 +45,7 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#949494"
      inkscape:zoom="0.89895836"
-     inkscape:cx="560.09268"
+     inkscape:cx="559.53648"
      inkscape:cy="312.0278"
      inkscape:window-width="1745"
      inkscape:window-height="1164"
@@ -69,72 +69,61 @@
      transform="translate(0,10)"><tspan
        x="20.023438"
        y="57.269609"
-       id="tspan1">Models Ecosystem</tspan></text><text
+       id="tspan3">Models Ecosystem</tspan></text><text
      xml:space="preserve"
      id="text2"
-     style="font-size:21.3333px;line-height:125%;font-family:Gilmer;-inkscape-font-specification:Gilmer;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#92c11e;stroke-width:0.264583px;-inkscape-stroke:none"
-     transform="translate(-15.57358,-14.461181)"><tspan
+     style="font-size:18.6667px;line-height:125%;font-family:Gilmer;-inkscape-font-specification:Gilmer;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);shape-padding:0;display:inline;fill:#92c11e;stroke-width:0.264583px;-inkscape-stroke:none"
+     transform="translate(-15.57358,34.484356)"><tspan
        x="48.945312"
-       y="139.65864"
-       id="tspan2">HuggingFace and other 
+       y="137.2187"
+       id="tspan4">HuggingFace and other 
 </tspan><tspan
        x="48.945312"
-       y="166.32527"
-       id="tspan17">model exchange platforms.
+       y="160.55208"
+       id="tspan5">model exchange platforms.
 </tspan><tspan
        x="48.945312"
-       y="192.99189"
-       id="tspan18">
+       y="183.88545"
+       id="tspan6">
 </tspan><tspan
        x="48.945312"
-       y="219.65852"
-       id="tspan19">Get them while you can </tspan><tspan
+       y="207.21882"
+       id="tspan7">Get them while you can </tspan><tspan
        x="48.945312"
-       y="246.32514"
-       id="tspan20">(disappearing models are </tspan><tspan
-       x="48.945312"
-       y="272.99177"
-       id="tspan21">best)
+       y="230.5522"
+       id="tspan8">(disappearing models are best)
 </tspan><tspan
        x="48.945312"
-       y="299.6584"
-       id="tspan22">
+       y="253.88557"
+       id="tspan9">
 </tspan><tspan
        x="48.945312"
-       y="326.32502"
-       id="tspan23">Use small models as a </tspan><tspan
-       x="48.945312"
-       y="352.99165"
-       id="tspan24">base
+       y="277.21895"
+       id="tspan10">Use small models as a base
 </tspan><tspan
        x="48.945312"
-       y="379.65827"
-       id="tspan25">
+       y="300.55232"
+       id="tspan11">
 </tspan><tspan
        x="48.945312"
-       y="406.3249"
-       id="tspan26">Train your own custom </tspan><tspan
-       x="48.945312"
-       y="432.99153"
-       id="tspan27">model
+       y="323.88569"
+       id="tspan12">Train your own custom model
 </tspan><tspan
        x="48.945312"
-       y="459.65815"
-       id="tspan28">
+       y="347.21907"
+       id="tspan13">
 </tspan><tspan
        x="48.945312"
-       y="486.32478"
-       id="tspan29">Merge models
+       y="370.55244"
+       id="tspan14">Merge models
 </tspan><tspan
        x="48.945312"
-       y="512.9914"
-       id="tspan30">
+       y="393.88582"
+       id="tspan15">
 </tspan><tspan
        x="48.945312"
-       y="517.87544"
-       id="tspan32"><tspan
-         dx="0 17.130629 13.205301 13.759987 13.205303 8.7893333 5.6319885 10.922668 12.693298 5.2480011 19.839973 13.013321 13.759995 12.693298 5.5893097"
-         id="tspan31">Quantize models</tspan></tspan></text><image
+       y="417.21919"
+       id="tspan16">Quantize models</tspan></text><image
      width="608.33502"
      height="344.92822"
      preserveAspectRatio="none"

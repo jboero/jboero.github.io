@@ -23,8 +23,8 @@
        id="rect3" /><rect
        x="48.945538"
        y="120.13905"
-       width="416.03707"
-       height="295.89802"
+       width="418.26187"
+       height="343.73116"
        id="rect2" /><rect
        x="20.023174"
        y="13.348783"
@@ -50,8 +50,8 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#949494"
      inkscape:zoom="0.89895836"
-     inkscape:cx="487.78678"
-     inkscape:cy="315.365"
+     inkscape:cx="487.23058"
+     inkscape:cy="316.4774"
      inkscape:window-width="1745"
      inkscape:window-height="1164"
      inkscape:window-x="175"
@@ -63,10 +63,10 @@
        d="m0 0l960.0 0l0 540.0l-960.0 0l0 -540.0z"
        clip-rule="nonzero"
        id="path1" /></clipPath><rect
-     style="fill:#92c11e;fill-opacity:0.3303411;stroke-width:0.264583px;-inkscape-stroke:none"
+     style="fill:#92c11e;fill-opacity:0.330341;stroke-width:0.264582px;-inkscape-stroke:none"
      id="rect4"
      width="438.28503"
-     height="310.35919"
+     height="374.8783"
      x="38.933949"
      y="119.02665" /><text
      xml:space="preserve"
@@ -75,50 +75,48 @@
      transform="translate(0,10)"><tspan
        x="20.023438"
        y="57.269609"
-       id="tspan1">Text Gen AI ⊂ GenAI ⊂ AI</tspan></text><text
+       id="tspan4">Text Gen AI ⊂ GenAI ⊂ AI</tspan></text><text
      xml:space="preserve"
      id="text2"
      style="font-size:26.6667px;line-height:125%;font-family:Gilmer;-inkscape-font-specification:Gilmer;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#92c11e;stroke-width:0.264583px;-inkscape-stroke:none"
      transform="translate(4.4495943,24.472769)"><tspan
        x="48.945312"
        y="144.5387"
-       id="tspan2">Text Generation is probably the </tspan><tspan
+       id="tspan5">Text Generation is probably the </tspan><tspan
        x="48.945312"
        y="177.87208"
-       id="tspan3">subset most applicable for </tspan><tspan
+       id="tspan6">subset most applicable for </tspan><tspan
        x="48.945312"
        y="211.20545"
-       id="tspan10">security. 
+       id="tspan7">security. 
 </tspan><tspan
        x="48.945312"
        y="244.53882"
-       id="tspan11">
+       id="tspan8">
 </tspan><tspan
        x="48.945312"
        y="277.8722"
-       id="tspan12">Not magic.
+       id="tspan9">Not magic.
 </tspan><tspan
        x="48.945312"
        y="311.20557"
-       id="tspan19">Only Math(s) and probability.
+       id="tspan13">Only Math(s) and probability.
 </tspan><tspan
        x="48.945312"
        y="344.53895"
-       id="tspan20">
+       id="tspan14">
 </tspan><tspan
        x="48.945312"
        y="377.87232"
-       id="tspan21">Training and Inference
+       id="tspan15">Training and Inference
 </tspan><tspan
        x="48.945312"
-       y="440.43714"
-       id="tspan23"><tspan
-         dx="0 17.200033 9.5200214 15.866669 6.5600166 16.346661 17.200027 13.839996 7.0400085 15.866669 10.266685 6.5600128 10.853394 16.506668 17.200027 16.506683 6.5600128 15.200012 14.880035 15.866669 10.266693 6.5599976 17.200043 15.519989 10.133331 16.266693 9.5200195 15.253326 6.7466736"
-         id="tspan22">are Easier than ever before.
-</tspan></tspan><tspan
+       y="411.20569"
+       id="tspan16">are Easier than ever before.
+</tspan><tspan
        x="48.945312"
-       y="473.77052"
-       id="tspan24">
+       y="444.53907"
+       id="tspan17">
 </tspan></text><a
      id="a4"
      xlink:href="https://www.fticonsulting.com/insights/articles/everybodys-talking-about-generative-ai"
@@ -136,14 +134,14 @@
        transform="translate(-70.08111,-5.5619929)"><tspan
          x="563.98633"
          y="411.98237"
-         id="tspan25">Everybody's Talking About Generative AI
+         id="tspan18">Everybody's Talking About Generative AI
 </tspan><tspan
          x="563.98633"
          y="435.31575"
-         id="tspan26">https://www.fticonsulting.com/insights/articles/</tspan><tspan
+         id="tspan19">https://www.fticonsulting.com/insights/articles/</tspan><tspan
          x="563.98633"
          y="458.64912"
-         id="tspan27">everybodys-talking-about-generative-ai</tspan></text></a><image
+         id="tspan20">everybodys-talking-about-generative-ai</tspan></text></a><image
      width="134.45973"
      height="21.804281"
      preserveAspectRatio="none"

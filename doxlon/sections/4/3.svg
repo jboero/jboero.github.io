@@ -45,7 +45,7 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#949494"
      inkscape:zoom="0.89895836"
-     inkscape:cx="475.55039"
+     inkscape:cx="474.99419"
      inkscape:cy="340.95016"
      inkscape:window-width="1745"
      inkscape:window-height="1164"
@@ -69,51 +69,42 @@
      transform="translate(0,10)"><tspan
        x="20.023438"
        y="57.269609"
-       id="tspan10">Deploy Your Own LLM Cluster</tspan></text><text
+       id="tspan3">Deploy Your Own LLM Cluster</tspan></text><text
      xml:space="preserve"
      id="text2"
-     style="font-size:37.3333px;line-height:125%;font-family:Gilmer;-inkscape-font-specification:Gilmer;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#92c11e;stroke-width:0.264583px;-inkscape-stroke:none"><tspan
+     style="font-size:32px;line-height:125%;font-family:Gilmer;-inkscape-font-specification:Gilmer;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#92c11e;stroke-width:0.264583px;-inkscape-stroke:none"
+     transform="translate(2.2247972,30.034762)"><tspan
        x="48.945312"
-       y="154.29864"
-       id="tspan11">Lightweight (no </tspan><tspan
-       x="48.945312"
-       y="200.96527"
-       id="tspan12">gfx)
+       y="149.41867"
+       id="tspan4">Lightweight
 </tspan><tspan
        x="48.945312"
-       y="247.63189"
-       id="tspan13">Hardware </tspan><tspan
-       x="48.945312"
-       y="294.29852"
-       id="tspan14">Support
+       y="189.41867"
+       id="tspan5">Hardware Support
 </tspan><tspan
        x="48.945312"
-       y="340.96515"
-       id="tspan15">Stateless
+       y="229.41867"
+       id="tspan6">Stateless
 </tspan><tspan
        x="48.945312"
-       y="387.63177"
-       id="tspan16">Spot Instances
+       y="269.41867"
+       id="tspan7">Spot Instances
 </tspan><tspan
        x="48.945312"
-       y="434.2984"
-       id="tspan17">Scalable
+       y="309.41867"
+       id="tspan8">Scalable
 </tspan><tspan
        x="48.945312"
-       y="480.96502"
-       id="tspan18">Pluggable
+       y="349.41867"
+       id="tspan9">Pluggable
 </tspan><tspan
        x="48.945312"
-       y="543.63849"
-       id="tspan20"><tspan
-         dx="0 30.127945 24.079994 22.213295 23.109291 26.954651 10.042625 9.1840057 28.59726 22.773331 34.719986 24.080002 24.079987 15.381348 9.8559875 24.079987 9.781311 22.213287"
-         id="tspan19">OpenAI Compatible
-</tspan></tspan><tspan
+       y="389.41867"
+       id="tspan11">OpenAI Compatible
+</tspan><tspan
        x="48.945312"
-       y="590.30511"
-       id="tspan22"><tspan
-         dx="0 21.653313 13.328003 22.213287 22.213287 9.1840057 24.079994 23.109299 24.079987 9.1840057 30.127945 24.080002 22.213287"
-         id="tspan21">Free and Open</tspan></tspan></text><image
+       y="429.41867"
+       id="tspan12">Free and Open</tspan></text><image
      width="672.25958"
      height="504.1947"
      preserveAspectRatio="none"
