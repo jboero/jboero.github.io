@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Change Inspire 2024</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/tbilisi.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides" id="slides">
+				<section>
+				  <section data-background-video="media/earthloop.mp4"
+				    data-background-video-loop data-background-video-muted>
+					<div style="width:120vw;height:130vh;position:absolute;top:-5vh;left:-10vw;">
+					  <img src="media/title.svg"/>
+					</div>
+				  </section>
+				  <section data-background-video="media/earthloop.mp4"
+				    data-background-video-loop data-background-video-muted>
+					<div style="width:120vw;height:130vh;position:absolute;top:-5vh;left:-10vw;">
+					  <img src="media/profile.svg"/>
+					</div>
+				  </section>
+				  <section data-background-video="media/tbilisi.av1.webm"
+				    data-background-video-loop data-background-video-muted>
+					<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/2560px-Flag_of_Georgia.svg.png" width="10%"/>
+				    <br><h2>თბილისი<br>Tbilisi, Georgia</h2>
+				  </section>
+				  <section data-background-image="media/bg1.jpg">
+				    <div style="width:120vw;height:130vh;position:absolute;top:-5vh;left:-10vw;">
+						<img src="media/topics.svg"/>
+					  </div>
+				  </section>
+				</section>
+			</div>
+		<script>
+			// Now load all directories (sections) and subsections (SVG images)
+			var http = new XMLHttpRequest();
+			var sections = 6;
+			var slides = document.getElementById('slides');
+	
+			// How many subsections (slides) for each section?
+			for (i = 1; i <= sections; i++) {
+				section = document.createElement("section");
+				section.setAttribute("data-background-image", "media/bg1.jpg");
+				for (j = 1; j < 10; j++) {
+					var url = "sections/" + i + "/" + j + ".svg";
+					http.open('GET', url, false);
+					http.send();
+					subsection = document.createElement("section");
+		
+					if (http.status === 200) {
+						img = document.createElement("img");
+						img.src = "sections/" + i + "/" + j + ".svg";
+		
+						subsection.appendChild(img);
+						section.appendChild(subsection);
+					}
+					else
+						break;
+				}
+				slides.appendChild(section);
+			}
+			</script>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				width: '100%',
+				height: '100%',
+				hash: true,
+				controls: true,
+				slideNumber: true,
+				transition: 'fade', // none/fade/slide/convex/concave/zoom
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+	</body>
+</html>
