@@ -44,7 +44,7 @@
 		<script>
 			// Now load all directories (sections) and subsections (SVG images)
 			var http = new XMLHttpRequest();
-			var sections = 6;
+			var sections = 7;
 			var slides = document.getElementById('slides');
 	
 			// How many subsections (slides) for each section?
@@ -52,6 +52,7 @@
 				section = document.createElement("section");
 				section.setAttribute("data-background-image", "media/bg1.jpg");
 				for (j = 1; j < 10; j++) {
+
 					var url = "sections/" + i + "/" + j + ".svg";
 					http.open('GET', url, false);
 					http.send();
@@ -62,6 +63,15 @@
 						img.src = "sections/" + i + "/" + j + ".svg";
 		
 						subsection.appendChild(img);
+
+						if (j == 1)
+						{
+							subsection.setAttribute("data-background-video", "media/earthloop.mp4");
+							subsection.setAttribute("data-background-video-loop", "");
+						}
+						else
+							subsection.setAttribute("data-background-image", "media/bg1.jpg");
+
 						section.appendChild(subsection);
 					}
 					else
