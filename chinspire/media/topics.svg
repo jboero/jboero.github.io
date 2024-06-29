@@ -32,8 +32,8 @@
        id="rect33-3" /><rect
        x="301.46002"
        y="430.49826"
-       width="666.24045"
-       height="350.68143"
+       width="740.77115"
+       height="404.07657"
        id="rect32-7" /></defs><sodipodi:namedview
      id="namedview32"
      pagecolor="#888888"
@@ -44,7 +44,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.89895835"
-     inkscape:cx="490.56778"
+     inkscape:cx="491.12398"
      inkscape:cy="280.88064"
      inkscape:window-width="1745"
      inkscape:window-height="1164"
@@ -79,25 +79,25 @@
        y="512.4534"
        id="tspan9"><tspan
          style="font-family:Gilmer;-inkscape-font-specification:Gilmer;fill:#f9f9f9"
-         id="tspan8">1. Cloud and Compute Architecture
+         id="tspan8">1. Cost-Effective FinOps
 </tspan></tspan><tspan
        x="301.46094"
        y="560.24878"
        id="tspan11"><tspan
          style="font-family:Gilmer;-inkscape-font-specification:Gilmer;fill:#f9f9f9"
-         id="tspan10">2. DevOps -&gt; Platform Engineering
+         id="tspan10">2. Cloud and Compute Architecture
 </tspan></tspan><tspan
        x="301.46094"
        y="608.04413"
        id="tspan13"><tspan
          style="font-family:Gilmer;-inkscape-font-specification:Gilmer;fill:#f9f9f9"
-         id="tspan12">3. AI and LLM Ecosystems
+         id="tspan12">3. DevOps -&gt; Platform Engineering
 </tspan></tspan><tspan
        x="301.46094"
        y="655.83948"
        id="tspan15"><tspan
          style="font-family:Gilmer;-inkscape-font-specification:Gilmer;fill:#f9f9f9"
-         id="tspan14">4. Cost-Effective FinOps
+         id="tspan14">4. AI and LLM Ecosystems
 </tspan></tspan><tspan
        x="301.46094"
        y="703.63482"
@@ -109,4 +109,10 @@
        y="751.43017"
        id="tspan19"><tspan
          style="font-family:Gilmer;-inkscape-font-specification:Gilmer;fill:#f9f9f9"
-         id="tspan18">6. Open Source Crisis</tspan></tspan></text></svg>
+         id="tspan18">6. Zero Trust
+</tspan></tspan><tspan
+       x="301.46094"
+       y="799.22552"
+       id="tspan21"><tspan
+         style="font-family:Gilmer;-inkscape-font-specification:Gilmer;fill:#f9f9f9"
+         id="tspan20">7. Open Source Crisis</tspan></tspan></text></svg>
