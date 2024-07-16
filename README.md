@@ -2,6 +2,8 @@ A hosting place of my static Reveal.JS presentations. Feel free to copy or modif
 
 https://jboero.github.io/brynzai
 
+https://jboero.github.io/chinspire
+
 https://jboero.github.io/cnm
 
 https://jboero.github.io/doxlon
