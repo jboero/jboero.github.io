@@ -1,15 +1,17 @@
-A hosting place of my static Reveal.JS presentations. Feel free to copy or modify any samples here but please don't copy any of the 3D model files which may be copyrighted. Please replace with your own. I am available to consult via TeraSky on custom presentations or kiosks of this nature. Please email johnb terasky.com for details.
+A hosting place of my static Reveal.JS presentations. Feel free to copy or modify any samples here but please don't copy any of the 3D model files which may be copyrighted. Please replace with your own. I am available to consult via TeraSky on custom presentations or kiosks of this nature. Please email johnb[at]terasky.com for details.
 
-https://jboero.github.io/brynzai
+BrynzAI: https://jboero.github.io/brynzai
 
-https://jboero.github.io/chinspire
+Change Inspire, Tbilisi: https://jboero.github.io/chinspire
 
-https://jboero.github.io/cnm
+Cloud Native Media: https://jboero.github.io/cnm
 
-https://jboero.github.io/doxlon
+DevOps London: https://jboero.github.io/dolon
 
-https://jboero.github.io/dsolg
+DevOps Exchange London: https://jboero.github.io/doxlon
 
-https://jboero.github.io/riscv
+DevSecOps London: https://jboero.github.io/dsolg
 
-https://jboero.github.io/zt
+RISC-V Conf, Santa Clara: https://jboero.github.io/riscv
+
+Zero Trust: https://jboero.github.io/zt
