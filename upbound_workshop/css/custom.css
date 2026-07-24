@@ -1,0 +1,52 @@
+/* ==========================================================================
+   Upbound deck — custom styles layered over Reveal.js 5 core (vendor/reveal.css)
+   ========================================================================== */
+
+/* Dark purple-glow backdrop (Option A), sits behind the WebGL cube. */
+html, body {
+  background: radial-gradient(circle at 34% 40%,
+              #3a2a72 0%, #1d1440 38%, #0a0716 74%, #05040a 100%);
+}
+
+/* Let the cube + gradient show through Reveal instead of a theme background. */
+.reveal-viewport,
+.reveal {
+  background: transparent !important;
+}
+
+/* Spinning-cube canvas: fixed behind the slides, Gaussian-blurred.
+   The slight scale bleeds the blur's soft edge off-screen (no frame band). */
+#background {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  filter: blur(10px);
+  transform: scale(1.06);
+}
+#background canvas {
+  display: block;
+}
+
+/* Slides render above the cube. */
+.reveal {
+  z-index: 1;
+}
+
+/* SVG slide images carry their own translucent Upbound panel — strip Reveal's
+   default image border/background and let them fill the 960x540 slide. */
+.reveal .slides section img {
+  border: none;
+  background: transparent;
+  box-shadow: none;
+  max-width: 100%;
+  max-height: 100%;
+  margin: 0 auto;
+  display: block;
+}
+
+/* Progress bar in Upbound purple. */
+.reveal .progress {
+  color: #8b6cff;
+  height: 4px;
+}

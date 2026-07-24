@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+  <rect x="20" y="20" width="920" height="500" rx="24" fill="#140B33" fill-opacity="0.9" stroke="#8B6CFF" stroke-opacity="0.35" stroke-width="2"/>
+  <text x="60" y="84" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3" fill="#8B6CFF">RELATIONSHIPS</text>
+  <text x="60" y="134" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#B9A6FF">How the pieces connect</text>
+  <rect x="60" y="152" width="120" height="5" rx="2.5" fill="#6B5BCD"/>
+  <rect x="60" y="206" width="234" height="252" rx="16" fill="#8B6CFF" fill-opacity="0.06" stroke="#7C6FAE" stroke-opacity="0.8" stroke-width="2"/>
+  <text x="76" y="196" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#B9A6FF">SETUP &#8226; PLATFORM BUILDER</text>
+  <rect x="468" y="206" width="200" height="252" rx="16" fill="#8B6CFF" fill-opacity="0.06" stroke="#7C6FAE" stroke-opacity="0.8" stroke-width="2" stroke-dasharray="9 7"/>
+  <text x="484" y="196" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#63D39B">APPLY &#8226; DEVELOPER</text>
+  <rect x="84" y="214" width="186" height="46" rx="12" fill="#140B33" fill-opacity="0.97" stroke="#8B6CFF" stroke-width="2"/>
+  <text x="177.0" y="235.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#EDE9FF">XRD</text>
+  <text x="177.0" y="253.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#7C6FAE">type you defined</text>
+  <rect x="84" y="288" width="186" height="46" rx="12" fill="#101a33" fill-opacity="0.97" stroke="#326CE5" stroke-width="2"/>
+  <text x="177.0" y="309.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#BCD3FF">CRD</text>
+  <text x="177.0" y="327.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#7FA0D8">Kubernetes plumbing</text>
+  <rect x="84" y="352" width="186" height="46" rx="12" fill="#140B33" fill-opacity="0.97" stroke="#8B6CFF" stroke-width="2"/>
+  <text x="177.0" y="373.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#EDE9FF">Composition</text>
+  <text x="177.0" y="391.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#7C6FAE">the logic</text>
+  <rect x="84" y="416" width="186" height="36" rx="12" fill="#140B33" fill-opacity="0.97" stroke="#8B6CFF" stroke-width="2"/>
+  <text x="177.0" y="441.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#EDE9FF">Provider</text>
+  <rect x="488" y="240" width="160" height="48" rx="12" fill="#140B33" fill-opacity="0.97" stroke="#8B6CFF" stroke-width="2"/>
+  <text x="568.0" y="262.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#EDE9FF">XR</text>
+  <text x="568.0" y="280.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#7C6FAE">the request</text>
+  <rect x="488" y="372" width="160" height="48" rx="12" fill="#140B33" fill-opacity="0.97" stroke="#8B6CFF" stroke-width="2"/>
+  <text x="568.0" y="394.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#EDE9FF">MR</text>
+  <text x="568.0" y="412.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#7C6FAE">real cloud infra</text>
+  <rect x="706" y="158" width="134" height="40" rx="12" fill="#241a4d" fill-opacity="0.97" stroke="#63D39B" stroke-width="2"/>
+  <text x="773.0" y="185.0" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#EDE9FF">Developer</text>
+  <line x1="120" y1="260" x2="120" y2="288" stroke="#8B6CFF" stroke-width="2.5" stroke-dasharray="7 6"/>
+  <path d="M 0 0 l -13 -6 l 0 12 z" fill="#8B6CFF" transform="translate(120 288) rotate(90.0)"/>
+  <text x="212" y="279" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#7C6FAE">compiles 1:1</text>
+  <line x1="120" y1="398" x2="120" y2="416" stroke="#8B6CFF" stroke-width="2.5"/>
+  <path d="M 0 0 l -13 -6 l 0 12 z" fill="#8B6CFF" transform="translate(120 416) rotate(90.0)"/>
+  <text x="212" y="411" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#7C6FAE">uses types &#8226; M:N</text>
+  <line x1="760" y1="198" x2="656" y2="252" stroke="#8B6CFF" stroke-width="2.5"/>
+  <path d="M 0 0 l -13 -6 l 0 12 z" fill="#8B6CFF" transform="translate(656 252) rotate(152.6)"/>
+  <text x="736" y="213" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#B9A6FF">writes &#8226; 1:N</text>
+  <line x1="488" y1="256" x2="272" y2="242" stroke="#8B6CFF" stroke-width="2.5"/>
+  <path d="M 0 0 l -13 -6 l 0 12 z" fill="#8B6CFF" transform="translate(272 242) rotate(-176.3)"/>
+  <text x="380" y="240" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#B9A6FF">must match &#8226; N:1</text>
+  <line x1="488" y1="280" x2="272" y2="370" stroke="#8B6CFF" stroke-width="2.5"/>
+  <path d="M 0 0 l -13 -6 l 0 12 z" fill="#8B6CFF" transform="translate(272 370) rotate(157.4)"/>
+  <text x="380" y="317" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#B9A6FF">fulfilled by &#8226; N:1</text>
+  <line x1="270" y1="378" x2="486" y2="392" stroke="#8B6CFF" stroke-width="2.5"/>
+  <path d="M 0 0 l -13 -6 l 0 12 z" fill="#8B6CFF" transform="translate(486 392) rotate(3.7)"/>
+  <text x="378" y="375" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#B9A6FF">declares &#8226; 1:N</text>
+  <line x1="270" y1="434" x2="486" y2="404" stroke="#8B6CFF" stroke-width="2.5"/>
+  <path d="M 0 0 l -13 -6 l 0 12 z" fill="#8B6CFF" transform="translate(486 404) rotate(-7.9)"/>
+  <text x="378" y="437" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#B9A6FF">reconciles &#8226; 1:N</text>
+  <text x="60" y="478" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#7C6FAE">Purple = Upbound/Crossplane &#8226; blue = Kubernetes &#8226; SETUP is the &#8220;1&#8221;, APPLY the &#8220;N&#8221;.</text>
+  <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAJPklEQVR4nO2aW2wcVxnHf+fMzO7O7vqaOI5N3aR1kiaEh6hJRdqqailVo6oXHiiBBxC9gKgqBYSQIiEBDwgJ9QEeEBFIqCoC1PJSKNCoUVPaNIJeUqjaJL3EaZLWdRzbie31dXdn55zDw8yu7ThxqWc2caz5S5bWszNnzvzmnPN93/+s+PaXDxgSLVrycnfgSlcCMKISgBGVAIyoBGBEJQAjKgEYUQnAiEoARlQCMKISgBGVAIyoBGBEJQAjKgEYUQnAiEoARlQCMKLqBlAIkFIghKjXLZaE7LgbFAKEEJRLCqUMliVIpS3AYJbh7kusAIUApQwVT9G1Nk/LyjRjox4fnZjAcSSWLZYdxNgAVuHZtuShXRv5/C3tWLZAK8N/XzvL7/cco1xUyw5ibGugEAKvrPnGIxu46QurkZbAGIOQcMPNq3ho10YqFR2QXkaKBaAQ4JUVHV1Ztt/ajtYmPC4AgdaGrTe2saa7Aa+kllVgiQmgQClDS2saywoib5VREFSCzy0r0ihlltUgjAWgMQbLlgyfLeFXNMbMRFxjZv7ODZXCNXD5LIIxAYRUSjJwepqD+8+E+V/wXTUffPXAAB+fmiSdtpZVEIktCmttyLg2Tz1+HK0NN9++GjdrUyopXj84xJO/O046LZfV6AMQcf64SAjQGkpFn9WdWZpaUoyPVRg4PU06I5FyeaUwxJ1IGwNCQi7vMHKuzNBgEcsSZHP2nHVxOSn2Ug4D2hhsR+KkJcZQS2uiqrqunv8iquXjrC7AJXph8QMEhAwqEOVpLFtgWfITIUo5C4Bh3loppaDiaQwGx5mJfUIK/Iqm4qnaPaQlcByJbcu6j/y6mAnlosLNWaxclWWs4DE1WSGTuXj0FQKmJisQwnMcSSocvVUVp31WtmewbcnQmSK2E8ApTfq0rEhz7fosjc0pjDGMFTwG+4uMDpdJpSSptBXbLDhf8ZoJUlAu+mzY3MxDuzbSGpoJf/hND4ffHMZ17XkPElQxmlvv7OT67SspTiv2/6OPD09MkM5YYAyep/naw+u4bUcnliV5560R9jx2FDdr89UH17HtpjZaVqTntDs6XObtN4bZ90wvp3unyOWdukCMOQoLvLLiJ7/YyjXrG9HKIC3Bmb5pfvzdQ3OmKeG0nJ6ssP221Ty6e3Pt+MRYhR/tOsT0lE/FU1z3uWZ++PPr51z74nOnWb+pia61eThv2s++T3HK54k9x3jlpQHyjQ5axQsxVkNVa4Obs2luSQXTTwQP1tScoqHRmV/GCVAattywAmMMFU/j+5qGJofuDY14ZYXW0LY6izGB21O9z+13fYautXmUb2rHhRAwq/JRKujPo7s3s3V7G9OT/ryXGFXxO9Jh52dXIgudO9u5tixRyxXFnKBi5tTU1XO0MmGQErXvpTVTBVmWqE3bB3dtpLE5he/rWGvxukThqAoS8gDaQhFUWoLB/iIvPNtH76lJpIRrr2tkx31dYUAJYGtlaG5NceudHTzz1CkamlKYmKbykgNYHRwLlXxGG4QU9LxT4Jc/Pcx4wcNJSTDw1qFhXj84xO6fbaGt3Q3aCV/EtptW8dxfejExBpMluyt3UX4mGKJeWfPEr49RnPJpbk2TcW3crE1rW5r+3in+/PgHwVQ11Oy1zq4srW0Z/Ep8ltrSAxg+mdHmgguoDtfDnncLnO6dIpuzAwtNG7QOAlG+0eG9IwVGh8tz1tJ0xqK5JYWv4nPGlx7AUAuOQGBooIhWhgudJgR4JZ/CSDlsa6YaSYV2Wlxx5NIAXERvlTILXpbJWBdv1wQBJthOnSutF2730yp2gMYYlA4+VzuacS2yeSdY/GdNHSGCVKOpJTX3AkD5+oKAqlNy3cYmXNcK25z1QJagUtGsaMuwqsOdswZqbZicqIRpUDyBJFaAUkKpqBgbDacOQa4mpWDbjW1MjFfC8wTSEkyMV2jvcLlmfWOYOwYP6lc0hVEPy5r/oFUQqzpcvnjPVYycK9fSFRkaC9NTPnffvwbHkehZ1xdGyoycLYd1dEzPHE8zgYQMSrnj744FB8xM0nv3/Vdzxz1X4Xma4rRPuajo7Mrxre9vIuNaof0UrFV9H01xdqCIc5EHlSIAu/OBbnY+0I1tS4pFn1JRkc3aPPy9TdxyRwfGBC+vmrYcO1pgfMzDsuObxPEaqtqQSlv8+8UBdnypqzYFhQgW7+/84LPcu3MNw2fLZLMWV3c31CAJKdC+QdpwYF8/nqdxsxfpngCMQEr4yje7ufO+Lk73TiGloOuaPLm8XRvRs3VgXz+WJbhg5FmkYnek067Fhycm2Pt0L/fuXIPyTa28MgY6u3J0duVmrgnTFeUHZdmRN0d4+fl+cnkbtUDCW23PaENTS2pmHQ0DRXXkK6WxbcnB/Wd49/Bo7K5M7EFEK0M2b/P0n05y8PkzWPbMAq61QfkG39f4oQlgqsHEFhz+zzB7HjsajBJYcKSMFbxa7Xt+m9V+CAG2LTn65gh//G0PGdeOfVOrPo40wTbn4796j5PHx7n7/qtpa3fPO2NGQwNFnv97Hy/u7UNKgRU6yRfKdau/+HrtwCAffjDB1x/ZQC5vXzBXKhUV/9zbx1+fPAWhuRC3O10XgFU3JuNavPBsH4f+NcTmLS1ct7mZ9g6XTNamNK3o75vi2NEC7x8JFvcAxMJ1cFVOWrLvbx9zomeMLTespHtjEy2tgYFQGClzomect98YrlUrn2RMLFZ1MxOqnc03OlTKitdeHuSVlwYD+0kKVDidpYSMa396s9MEbY8Oe+x9uhcpwbIDQ8H3dbAeZ2St3Xrti9TdjdHKICxBLu+E0bPq74na/9qYRTnFWhlsR9DQ5NTaBciIoEoxenHtfhpdGjsrhDTnUExDomqs1qPt/0dL1kyYrWD9moFyfvl2ObXkAUopAltKiNqeh5CCkXNlIF5jYFH9u8z3X1BaG9ysxftHCrx6YLCWL57sGefg/jO42fnbpJdasW5r1kUCjAoS5LXrGrAdyUcnJqhUDI5z+X+stOT2ROYpnLKOJTjZM4ExhnTGWhLwuCIAhqrW2SKc2ksBHlcSQMLou0S41bSkg8iVoARgRCUAIyoBGFEJwIhKAEZUAjCiEoARlQCMqARgRCUAIyoBGFEJwIhKAEZUAjCiEoARlQCMqARgRP0PX543K8Rl0m4AAAAASUVORK5CYII=" x="872" y="40" width="52" height="52"/>
+  <text x="60" y="500" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#7C6FAE">5 / 17  &#8226;  Upbound Project Foundations &#8226; upbound.io</text>
+</svg>
